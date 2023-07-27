@@ -11,8 +11,11 @@ const getById = async (videoId) => {
 
 
 const postComment = async ({videoId, username, comment}) => {
-    const newComment = new commentModel({videoId, username, comment});
-
+    const newComment = new commentModel({
+        videoId,
+        username, 
+        comment
+    });
     await newComment.save();
 }
 

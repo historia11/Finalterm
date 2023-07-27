@@ -10,6 +10,6 @@ const router = express.Router();
 router.get("/videos", videoController.getAllVideo);
 router.get("/videos/:id/products", productController.getProductById)
 router.get("/videos/:id/comment", commentController.getCommentById)
-router.get("/videos/:id/comment/post", commentController.postComment)
+router.post("/videos/:id/comment/post", commentController.postComment)
 
 export {router}

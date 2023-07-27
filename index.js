@@ -16,7 +16,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get('/', (req, res) => {
   res.json({
-    message: 'API is running, you can use this API with /tokplay',
+    message: 'API is running'
   });
 });
 app.use('/api', router);
@@ -28,5 +28,5 @@ app.use((err, res) => {
 })
 
 app.listen(PORT, () => {
-  console.log(`Server berhasil di running http://localhost:${PORT}`);
+  console.log(`Server running http://localhost:${PORT}`);
 })
