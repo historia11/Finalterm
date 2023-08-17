@@ -1,0 +1,37 @@
+[
+    {
+        "nama_produk": "VALORANT",
+        "harga_produk": "50.000",
+        "Thumbnail_produk": "https://i.ytimg.com/vi/5sq1VitJsU8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCRmyoPrRnbpHSmskfjUszbfGASYg",
+        "link_produk": "kaydey",
+        "video_id": "5sq1VitJsU8"
+    },
+    {
+        "nama_produk": "BEST PLAYS OF THE WEEK Ep.144 | VALORANT MONTAGE",
+        "harga_produk": "50.000",
+        "Thumbnail_produk": "https://i.ytimg.com/vi/5sq1VitJsU8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCRmyoPrRnbpHSmskfjUszbfGASYg",
+        "link_produk": "BEST PLAYS OF THE WEEK Ep.144 | VALORANT MONTAGE",
+        "video_id": "5sq1VitJsU8"
+    },
+    {
+        "nama_produk": "Paper Rex vs FUT Esports",
+        "harga_produk": "50.000",
+        "Thumbnail_produk": "https://i.ytimg.com/vi/5Z8PB4prC0Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtA76NazcJHHTExcM7QUFCjosOrg",
+        "link_produk": "Paper Rex vs FUT Esports",
+        "video_id": "5Z8PB4prC0Q"
+    },
+    {
+        "nama_produk": "Paper Rex vs KRÜ Esports",
+        "harga_produk": "50.000",
+        "Thumbnail_produk": "https://i.ytimg.com/vi/o3FtXtpa9oI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1nSWTPjGG8irLlQAXSW9Eu0rjIQ",
+        "link_produk": "Paper Rex vs KRÜ Esports",
+        "video_id": "o3FtXtpa9oI"
+    },
+    {
+        "nama_produk": "Paper Rex vs DRX - HIGHLIGHTS",
+        "harga_produk": "50.000",
+        "Thumbnail_produk": "https://i.ytimg.com/vi/5Pm7i5WLWaU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsG_6O5uXkaxk78m3TCmeyGz9T4g",
+        "link_produk": "Paper Rex vs DRX - HIGHLIGHTS",
+        "video_id": "5Pm7i5WLWaU"
+    }
+]
